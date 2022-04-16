@@ -1,5 +1,5 @@
 # cse470project
-ami chamak saha 
+
 Installation/Setup
 
 Open your XAMPP/WAMP's php.ini file and uncomment the GD Library.
