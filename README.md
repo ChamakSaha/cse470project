@@ -1,7 +1,7 @@
 # cse470project
 
-Installation/Setup
 
+Installation/Setup
 Open your XAMPP/WAMP's php.ini file and uncomment the GD Library.
 Open your XAMPP/WAMP's Control Panel and start Apache and MySQL.
 Extract the downloaded source code zip file.
